@@ -136,8 +136,8 @@ vagrantAirBnB_clone$./console.py
 No known bugs at this time. 
 
 ## Authors
-Adam Debalke - [Github](https://github.com/adamdebalke)
-Mogess Teshome - [Github](https://github.com/) 
+Dawit Alemu - [Github](https://github.com/dawitamel)
+Yonas CHANYALEW - [Github](https://github.com/) 
 
 Second part of Airbnb: Joann Vuong
 ## License
